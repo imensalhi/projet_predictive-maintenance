@@ -1,5 +1,5 @@
 # projet_predictive-maintenance
-# Projet de Prédiction du RUL
+
 
 Ce projet consiste à prédire la durée de vie restante (RUL) des composants mécaniques en utilisant des techniques de machine learning et d'apprentissage profond.
 
