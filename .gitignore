@@ -1,0 +1,25 @@
+# Ignorer les fichiers temporaires et les dossiers générés par Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignorer les fichiers de l'environnement virtuel (si vous utilisez un environnement virtuel)
+venv/
+env/
+
+# Ignorer les notebooks Jupyter (si non utilisés dans le projet)
+.ipynb_checkpoints/
+
+# Ignorer les fichiers de logs
+*.log
+
+# Ignorer les fichiers de configuration spécifiques à l'éditeur
+.vscode/
+.idea/
+
+# Ignorer le dossier de données si nécessaire (si les données sont trop volumineuses ou sensibles)
+data/
+
+# Ignorer les fichiers de configuration Slack ou autres API keys (par mesure de sécurité)
+*.env
