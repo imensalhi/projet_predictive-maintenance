@@ -18,7 +18,8 @@ Pour exécuter ce projet localement :
 3.Lancez le serveur Streamlit :
 
 streamlit run app.py
-#Technologies utilisées
+
+## Technologies utilisées
 Python
 TensorFlow (pour l'apprentissage en profondeur)
 Streamlit (pour l'interface utilisateur)
