@@ -15,4 +15,6 @@ Pour exécuter ce projet localement :
 2. Installez les dépendances :
    ```bash
    pip install -r requirements.txt
+3.Lancez le serveur Streamlit :
 
+streamlit run app.py
